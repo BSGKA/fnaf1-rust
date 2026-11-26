@@ -1,0 +1,7 @@
+/target/
+/assets/
+*.cfg
+*.exe
+*.pdb
+.DS_Store
+Thumbs.db
